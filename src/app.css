@@ -36,7 +36,7 @@
 	}
 
 	html {
-		@apply font-[Roboto_Mono]
+		@apply bg-black text-white font-[Roboto_Mono]
       min-h-full h-full;
 	}
 
