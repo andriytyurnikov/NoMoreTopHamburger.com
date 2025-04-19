@@ -14,6 +14,8 @@
 
 	<meta name="theme-color" content="#16161D" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>No More Top Hamburger</title>
 </svelte:head>
 
 {@render children()}
